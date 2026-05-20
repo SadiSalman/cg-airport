@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1777573343 source:d:\github\cg-airport\airport simulator\main.cpp
+1779166858 source:d:\github\cg-airport\airport simulator\main.cpp
 	<GLUT/glut.h>
 	<GL/glut.h>
 	<stdlib.h>
+	<cmath>
 
 1771448420 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glut.h
 	"freeglut_std.h"
